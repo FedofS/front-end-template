@@ -1,0 +1,14 @@
+.btn {
+    background-color: $mainBlue;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+
+    &--purple {
+        background-color: $mainPurple;
+    }
+
+    &--large {
+        padding: 1.0rem 1.5rem;
+    }
+}

@@ -1,0 +1,21 @@
+.img {
+
+    &__catalog {
+        margin-bottom: 100px;
+    }
+
+    &__catalog li {
+        display: inline-block;
+        width: 130px;
+        margin: 20px;
+    }
+
+    &__catalog img {
+        display: block;
+    }
+
+    &__gulp {
+        width: 200px;
+        height: auto;
+    }
+}
