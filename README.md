@@ -4,7 +4,7 @@ Front-end-template is a front-end template for building web apps or sites.
 
 
 Basic structure:
-
+```
 ├── gulp
 │   └── tasks
 │        ├── clean.js
@@ -42,4 +42,4 @@ Basic structure:
 ├── package.json
 ├── server.js
 └── webpack.config.js
-
+```
